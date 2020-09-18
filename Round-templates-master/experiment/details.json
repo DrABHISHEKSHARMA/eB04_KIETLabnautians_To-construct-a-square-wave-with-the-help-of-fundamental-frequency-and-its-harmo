@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To construct a square wave with the help of fundamental frequency and its harmonic component",
+			"Lab": "Communication Engineering Lab",
+			"Discipline": "Electronics and Communication Engineering",
+			"Technology": "Communication Technology"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Abhishek Sharma",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+      "InstituteAcronym": "KIET"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Parth Dogra",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Nandini Jairath",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Anubhav Kulshrestha",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Utkarsh Singh",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       }
+   ]
+
+}

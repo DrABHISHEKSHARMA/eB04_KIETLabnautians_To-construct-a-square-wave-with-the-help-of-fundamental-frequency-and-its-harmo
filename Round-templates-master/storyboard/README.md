@@ -30,11 +30,11 @@ The user also sees the following things:<br>
 |S. No.|	Number of harmonics |	Amplitude Values (V)|
 |:----:|:-------------------:|:-------------------:|
 |1. |	V1	| (1st Harmonic -Fundamental Harmonic)|	
-2.	| V2 | (2nd Harmonic)
-3.	| V3	| (3rd Harmonic)
-4.	| V4	| (4th Harmonic)
-5.	| V5	| (5th Harmonic)
-6. | V6	| (6th Harmonic)	
+|2.	| V2 | (2nd Harmonic)|
+|3.	| V3	| (3rd Harmonic)|
+|4.	| V4	| (4th Harmonic)|
+|5.	| V5	| (5th Harmonic)|
+|6. | V6	| (6th Harmonic)|
 
 <br/>
 

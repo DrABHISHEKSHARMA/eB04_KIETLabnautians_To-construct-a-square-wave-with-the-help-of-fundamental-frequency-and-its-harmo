@@ -18,23 +18,23 @@ When a student visits the link of the simulator page, he will see a graph canvas
 On the bottom of the canvas, the student will observe the sliders (in blue colors), there is a total of 8 sliders, three are in two rows and two sliders are in the last row. These sliders are used to provide the amplitude of the integer multiple harmonics.  In front of the slider's current value of a slider will be displayed in black text color. For the convenience of the user, one sample of the data is already been set with the help of the slider. Using these sliders users can vary the value of input parameters, like Amplitude of the integer harmonics, Fundamental frequency etc.
 Just above these sliders, the output of the application in form of a graph is visible to the user. A square wave will be generated according to the input parameters provided by the user. They can also observe the real-time output. After any change, reconstruction of the wave is also possible by providing suitable values using the slider. The amplitude values of the first harmonic (fundamental harmonic) is V1. V2 is the amplitude of the second integer multiple of the fundamental frequency and similarly, V3, V4, V5, and V6 present the amplitude of the integer multiple of the harmonics accordingly.
 The user observes the change in the generated waveform in the graphical panel by adjusting the values of V1, V2, V3, V4, V5, V6 (wave is moving towards the right side with respect to positive values of time instants).
-The user also sees the following things:
-•	When the user changes the values of the sliders (placed bottom part of the canvas) then automatically the current value of it also changed and the user can easily observe, how this value depends on generating the wave.
-•	If a student is prompted to set the values in each slider by sliding it, they can observe the change of values which will be visible nearly to the sliders.
-•	Firstly, a student has to set the fundamental frequency in frequency slider and note the value of it.
-•	Then students have to set the value of each harmonic amplitude in the corresponding amplitude slider and note it too.
-•	Now the student has to set the values of V1, V2, V3, V4, V5, V6 these are the main parameters in generating the "Square wave".
-•	Students must have to set the appropriate values of these parameters.
-•	This simulator work on real-time configuration, as students set the values of all parameters then automatically wave is generated or if given values are matched with the actually required parameters then the square wave will be formed.
+The user also sees the following things:<br>
+•	When the user changes the values of the sliders (placed bottom part of the canvas) then automatically the current value of it also changed and the user can easily observe, how this value depends on generating the wave.<br>
+•	If a student is prompted to set the values in each slider by sliding it, they can observe the change of values which will be visible nearly to the sliders.<br>
+•	Firstly, a student has to set the fundamental frequency in frequency slider and note the value of it.<br>
+•	Then students have to set the value of each harmonic amplitude in the corresponding amplitude slider and note it too.<br>
+•	Now the student has to set the values of V1, V2, V3, V4, V5, V6 these are the main parameters in generating the "Square wave".<br>
+•	Students must have to set the appropriate values of these parameters.<br>
+•	This simulator work on real-time configuration, as students set the values of all parameters then automatically wave is generated or if given values are matched with the actually required parameters then the square wave will be formed.<br>
 
 S. No.|	Number of harmonics |	Amplitude Values (V)
 :--|:--|:--:
-1. |	V1	|  (1st Harmonic -Fundamental Harmonic)	
-2.	| V2	  | (2nd Harmonic)	
-3.	| V3	  | (3rd Harmonic)
-4.	| V4	  | (4th Harmonic)
-5.	| V5	  | (5th Harmonic)	
-6. | V6	  | (6th Harmonic)	
+1. |	V1	| (1st Harmonic -Fundamental Harmonic)	
+2.	| V2 | (2nd Harmonic)	
+3.	| V3	| (3rd Harmonic)
+4.	| V4	| (4th Harmonic)
+5.	| V5	| (5th Harmonic)	
+6. | V6	| (6th Harmonic)	
 <br/>
 
 Note:- Students want to know the actual values of parameters and then students have to refresh the page after refreshing the wave is formed that wave is called a square wave, Through which students can check whether the answers.

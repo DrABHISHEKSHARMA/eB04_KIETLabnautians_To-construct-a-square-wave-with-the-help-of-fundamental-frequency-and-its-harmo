@@ -28,7 +28,7 @@ The user also sees the following things:<br>
 •	This simulator work on real-time configuration, as students set the values of all parameters then automatically wave is generated or if given values are matched with the actually required parameters then the square wave will be formed.<br>
 
 S. No.|	Number of harmonics |	Amplitude Values (V)
-:--|:--|:--:
+:--|:--|:--|
 1. |	V1	| (1st Harmonic -Fundamental Harmonic)	
 2.	| V2 | (2nd Harmonic)	
 3.	| V3	| (3rd Harmonic)

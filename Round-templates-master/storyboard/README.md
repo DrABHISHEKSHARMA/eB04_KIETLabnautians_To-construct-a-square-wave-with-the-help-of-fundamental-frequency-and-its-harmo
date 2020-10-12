@@ -27,20 +27,15 @@ The user also sees the following things:<br>
 •	Students must have to set the appropriate values of these parameters.<br>
 •	This simulator work on real-time configuration, as students set the values of all parameters then automatically wave is generated or if given values are matched with the actually required parameters then the square wave will be formed.<br>
 
-S. No.|	Number of harmonics |	Amplitude Values (V)
-:--|:--|:--|
-1. |	V1	| (1st Harmonic -Fundamental Harmonic)	
-:--|:--|:--|
+|S. No.|	Number of harmonics |	Amplitude Values (V)|
+|:----:|:-------------------:|:-------------------:|
+|1. |	V1	| (1st Harmonic -Fundamental Harmonic)|	
 2.	| V2 | (2nd Harmonic)
-:--|:--|:--|
 3.	| V3	| (3rd Harmonic)
-:--|:--|:--|
 4.	| V4	| (4th Harmonic)
-:--|:--|:--|
 5.	| V5	| (5th Harmonic)
-:--|:--|:--|
 6. | V6	| (6th Harmonic)	
-:--|:--|:--|
+
 <br/>
 
 Note:- Students want to know the actual values of parameters and then students have to refresh the page after refreshing the wave is formed that wave is called a square wave, Through which students can check whether the answers.

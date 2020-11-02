@@ -1,0 +1,161 @@
+<!DOCTYPE html><html><head>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.sound.min.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+  <script src="https://superal.github.io/canvas2image/canvas2image.js"></script>
+    
+    
+  <script src="sweetalert2.all.min.js"></script>
+<!-- Optional: include a polyfill for ES6 Promises for IE11 -->
+<script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+  
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta charset="utf-8">
+  
+
+</head>
+<style>
+  
+
+</style>
+<body>
+
+
+  
+
+
+  <div class="specific">
+<div class="maincont" >
+    <div class="box1">
+       <div class="box6">
+        
+          <h1 style="padding: 10px;font-size: 18px; border: 2px solid black; background-color:#e6a029; margin-top: -5px;"><strong>Objective :</strong>To construct a square wave with the help of fundamental frequency and its harmonic component.</h1>
+        
+      </div>
+
+
+      <div class="box10">
+          
+      </div>
+      
+       
+      
+<br>
+      
+      <div class="box7">
+        <h1 style="text-align:center;font-size: 22px;font-weight: 100;color: white;">Instructions</h1>
+        <hr style="width: 35%;text-align:center; font-size: 3px;color: white;" >
+        <ul>
+          <li>Read the theory of the experiment completely before performing this experiment</li>
+          <br><li>The fundamental harmonic f<sub>o</sub>=ω<sub>o</sub>/2*pi and amplitude of the respective harmonics will be set by the students.</li>
+          <br><li>The student will have to observe the change in the waveform for different values of the amplitude of integer harmonics and enter the observation into the table manually.</li>
+          <br><li>One set of all relative values have been already provided on the screen which is used to generate the periodic square waveform.</li>
+          <br><li>The student will change all the values with the help of sliders accordingly.</li>
+          <br><li>The student will have to enter the amplitude values of all the integer harmonics into the table manually.</li>
+          <br><li>V<sub>1</sub> is the voltage value of the fundamental harmonic f0.</li>
+          <br><li>V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>, V<sub>4</sub>, V<sub>5</sub>, V<sub>6</sub>, and V<sub>7</sub> are the amplitude values of the integer multiples of the harmonic. For example, V2 is the amplitude of the second harmonic, etc.</li>
+          <br><li>The student can reset the graph(making a square wave) by using reset button .</li>
+        </ul>
+       
+      </div>
+      <button class="btn" onclick="setup1()">Reset</button>
+   </div><br><br>
+
+   <div>
+    
+    <div class="observation" style="margin-top: 10px;">
+      
+      <table style="width: 100%;">
+        <tr>
+          <td colspan="3" style="font-size: 30px;text-align: center; margin: 4px;"><b>Observation Table</b></td>
+        </tr>
+        <tr>
+          <th rowspan="2">Serial No</th>
+          <th>Number of Harmonics</th>
+          <th rowspan="2">Amplitude Values (V)</th>
+          
+          
+        </tr>
+        <tr>
+          
+          <th>Fundamental Frequency ( f<sub>o</sub>  )    <input type="number">   </th>
+         
+          
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>V1 (1<sup>st</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+        <tr>
+          <td>2.</td>
+          <td>V2 (2<sup>nd</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+        <tr>
+          <td>3.</td>
+          <td>V3 (3<sup>rd</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>V4 (4<sup>th</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>V5 (5<sup>th</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+        <tr>
+          <td>6.</td>
+          <td>V6 (6<sup>th</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+
+        <tr>
+          <td>7.</td>
+          <td>V7 (7<sup>th</sup> Harmonic - Fundamental Harmonic)</td>
+          <td><input type="number"></td>
+          
+        </tr>
+       
+        
+      </table>
+    
+    </div>
+
+   
+   
+  </div>
+  
+
+    
+ 
+
+   
+  <div class="box5" >
+     <script src="js/sketch.js"></script>
+  </div>
+
+  
+  
+</div>
+
+</div>
+
+
+</body></html>

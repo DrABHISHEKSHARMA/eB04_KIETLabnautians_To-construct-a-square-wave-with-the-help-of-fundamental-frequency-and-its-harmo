@@ -1,4 +1,4 @@
-##Theory
+## Theory
 <p>
 Square wave can be made with the fundamental frequency and proper harmonics frequency value selection. Following equation is the Trigonometric representation of Continuous Time Fourier Series (CTFS) for periodic signal f(t), with a fundamental harmonic ω_0.
 </p>

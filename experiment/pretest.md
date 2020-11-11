@@ -1,4 +1,4 @@
-## <b> Pre-test
+##  Pre-test
 #### Please attempt the following questions
 
 <br>Q1) What are Fourier coefficients?

@@ -2,7 +2,7 @@
 <p>
 Square wave can be made with the fundamental frequency and proper harmonics frequency value selection. Following equation is the Trigonometric representation of Continuous Time Fourier Series (CTFS) for periodic signal f(t), with a fundamental harmonic ω_0.
 </p>
-<img src="images/1,png"/><br>
+<img src="images/1.png"/><br>
 <p>
  The wave form for the generation of odd symmetric periodic square wave with an zero average over a single time interval is given by
  </p>

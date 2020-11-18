@@ -21,7 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Communication Engineering
+#### 1. Focus Area : Problem Based
 
 By this experiment we want students to understand the concept of Continuous Time Fourier Series. By doing this experiment they would themselves analyze that, how the addition of integer multiple of fundamental harmonics create a wave. The values of amplitude of the harmonics play a dominant role in the generation of periodic signal generation.
 
@@ -30,9 +30,9 @@ By this experiment we want students to understand the concept of Continuous Time
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>create periodic square wave | Synthesis | Create
-2.| User will be able to: <br>understand the concept of Fourier Series | Understand | Describe
-3.| User will be able to: <br>able to apply the concept of the Fourier Series for various periodic signal generation | Application |Apply
+1.| User will be able to: <br>design periodic square wave | Synthesis | Design
+2.| User will be able to: <br>describe the concept of Fourier Series | Understand | Describe
+3.| User will be able to: <br>apply the concept of the Fourier Series for various periodic signal generation | Application |Apply
 4.| User will be able to: <br>analyze the effect of the harmonics on any periodic signal generation | Analysis | Analyze
 
 <br/>

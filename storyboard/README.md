@@ -81,11 +81,11 @@ Difficulty Level: Recall
 <br>Ans : (a)
 
 Difficulty Level: Understand
-<br>Q) Which are the Fourier coefficients in the following?
-<br>  a) a0, an and bn
-<br>  b) an
-<br>  c) bn
-<br>  d) an and bn
+<br>Q) Continuous Time Fourier Series will be applicable for......?
+<br>a) Periodic Signal
+<br>b) Aperiodic Signal
+<br>c) Causal Signal
+<br>d) None of these
 <br>Ans : (a)
 
 Difficulty Level: Apply

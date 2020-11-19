@@ -45,7 +45,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> Problem Based
-###### Assessment Method: Generated Figures
+###### Assessment Method: Summative
 
 <u> <b>Description: </b></u>
 <br>

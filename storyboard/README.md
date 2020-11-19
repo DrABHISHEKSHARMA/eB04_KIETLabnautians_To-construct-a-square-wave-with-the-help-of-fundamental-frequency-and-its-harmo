@@ -94,7 +94,7 @@ Difficulty Level: Apply
 <br>	b) A7>A6< A5< A4
 <br>	c) A7<A6< A5< A4
 <br>	d) None of the above
-<br>Ans : (a)
+<br>Ans : (c)
 
 Difficulty Level: Analyze
 <br>Q) Do exponential Fourier series also have Fourier coefficients to be evaluated.

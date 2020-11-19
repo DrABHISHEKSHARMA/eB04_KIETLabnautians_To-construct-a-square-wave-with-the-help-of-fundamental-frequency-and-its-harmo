@@ -8,11 +8,11 @@
 <br>d) The terms which are of resemblance to Fourier transform in a Fourier series are called Fourier series coefficients
 <br>
 
-<br>Q2) Which are the Fourier coefficients in the following?
-<br><b>a) a0, an and bn</b>
-<br>b) an
-<br>c) bn
-<br>d) an and bn
+<br>Q2) Continuous Time Fourier Series will be applicable for......?
+<br><b>a) Periodic Signal</b>
+<br>b) Aperiodic Signal
+<br>c) Causal Signal
+<br>d) None of these
 <br>
 
 <br>Q3) Do exponential Fourier series also have Fourier coefficients to be evaluated.

@@ -67,7 +67,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
-:--|:--|:--|:-:
+|:--|:--|:--|:-:|
 1.| LO1 | The students have to create a square wave with the help of harmonic values and appropriate fundamental frequency | What will be the effect on odd harmonics and even harmonics on a generated periodic wave?<br> A. Distortion of wave <br> B. Affects the periodicity of the wave <br> C. Both a and b <br> <b> D. None of these </b> <br>
 2.| LO1 | Users have to identify the effect <br>of even and odd harmonics on <br>the generation of square wave | 1 The generated wave will be an antisymmetric about the origin at t=0, for <br> A. Even Harmonics only <br> B. Odd Harmonics only <br> C. Both Even and Odd harmonics <br> <b> D. Symmetry do not depend on harmonic type </b> <br>
 3.| LO2 | User can enter the amplitude values in the simulator, and watch the effect in the output | For odd wave square wave generation with average value of the signal is zero in one time interval, select the correct value of the first harmonic <br> A. 1.2738 <br> B. 2.7345 <br> C. 1.4142 <br> <b> D. 3.1433 </b> <br>

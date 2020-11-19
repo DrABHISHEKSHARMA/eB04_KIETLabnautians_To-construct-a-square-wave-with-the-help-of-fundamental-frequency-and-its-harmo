@@ -30,10 +30,10 @@ By this experiment we want students to understand the concept of Continuous Time
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>design periodic square wave | Synthesis | Design
-2.| User will be able to: <br>describe the concept of Fourier Series | Understand | Describe
-3.| User will be able to: <br>apply the concept of the Fourier Series for various periodic signal generation | Application |Apply
-4.| User will be able to: <br>analyze the effect of the harmonics on any periodic signal generation | Analysis | Analyze
+1.| User will be able to: <br>Explain the generation of periodic square wave | Evaluate | Explain
+2.| User will be able to: <br>Describe the concept of Fourier Series | Understand | Describe
+3.| User will be able to: <br>Apply the concept of the Fourier Series for various periodic signal generation | Apply | Apply
+4.| User will be able to: <br>Analyze the effect of the harmonics on any periodic signal generation | Analyse | Analyze
 
 <br/>
 <div align="right">

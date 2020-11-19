@@ -4,13 +4,13 @@
 
 <br>
 <br>
-<b> Experiment Communication Engineering Lab  <a name="top"></a> <br>
+ <b>Experiment Communication Engineering Lab </b> <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Electronics and Communication Engineering
+<b>Discipline</b> | <b>Electronics and Communication Engineering</b>
 :--|:--|
-<b> Lab | <b> Communication Engineering
-<b> Experiment|     <b> 1. To construct a square wave with the help of fundamental frequency and its harmonic component
+<b> Lab</b> | <b> Communication Engineering</b>
+<b> Experiment</b>|     <b> 1. To construct a square wave with the help of fundamental frequency and its harmonic component</b>
 
 
 <h4> [1. Focus Area](#LO)

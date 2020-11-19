@@ -27,8 +27,8 @@ Q1) What is a line spectrum?
 <br>
 
 <br>Q5) Select the correct relation between the amplitude of the nth harmonic element for Fourier series (An is representing amplitude of the nth harmonic)
-<br><b>a)	A7>A6> A5> A4</b>
+<br>a)	A7>A6> A5> A4
 <br>b)	A7>A6< A5< A4
-<br>c)	A7<A6< A5< A4
+<br><b>c)	A7<A6< A5< A4</b>
 <br>d)	None of the above
 <br>

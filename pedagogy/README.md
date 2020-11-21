@@ -63,15 +63,15 @@ Scope: Various runs of the same experiment are possible at changing values of fl
 <a name="AQ"></a>
 #### 4. Task & Assessment Questions:
 
-Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
+Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3, LO4]
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 |:--:|:--:|:--:|:-:|
-1.| LO1 | The students have to create a square wave with the help of harmonic values and appropriate fundamental frequency | What will be the effect on odd harmonics and even harmonics on a generated periodic wave?<br> A. Distortion of wave <br> B. Affects the periodicity of the wave <br> C. Both a and b <br> **D. None of these** <br>
-2.| LO1 | Users have to identify the effect <br>of even and odd harmonics on <br>the generation of square wave |  The generated wave will be an antisymmetric about the origin at t=0, for <br> A. Even Harmonics only <br> B. Odd Harmonics only <br> C. Both Even and Odd harmonics <br> <b> D. Symmetry do not depend on harmonic type </b> <br>
-3.| LO2 | User can enter the amplitude values in the simulator, and watch the effect in the output | Continuous Time Fourier Series will be applicable for......? <br><b>a) Periodic Signal</b> <br>b) Aperiodic Signal <br>c) Causal Signal <br>d) None of these <br>
-4.| LO3 | User can watch the effect of integer multiplier harmonics of fundamental harmonics in the output | If the fundamental frequency of the generated periodic wave is 50 Hz, then which of the following frequency will not be the part of generated periodic signal <br> A. 100 Hz <br> B. 150 Hz <br> **C. 70Hz** <br> D. 200Hz <br>
+1.|  User will be able to: <br>Describe the generation of periodic square wave with the help of CTFS | The students have to create a square wave with the help of harmonic values and appropriate fundamental frequency | What will be the effect on odd harmonics and even harmonics on a generated periodic wave?<br> A. Distortion of wave <br> B. Affects the periodicity of the wave <br> C. Both a and b <br> **D. None of these** <br>
+2.|  User will be able to: <br>Describe the concept of Fourier Series | Users have to identify the effect <br>of even and odd harmonics on <br>the generation of square wave |  The generated wave will be an antisymmetric about the origin at t=0, for <br> A. Even Harmonics only <br> B. Odd Harmonics only <br> C. Both Even and Odd harmonics <br> <b> D. Symmetry do not depend on harmonic type </b> <br>
+3.|  User will be able to: <br>Apply the concept of the Fourier Series for various periodic signal generation | User can enter the amplitude values in the simulator, and watch the effect in the output | Continuous Time Fourier Series will be applicable for......? <br><b>a) Periodic Signal</b> <br>b) Aperiodic Signal <br>c) Causal Signal <br>d) None of these <br>
+4.| User will be able to: <br> Analyze the effect of the harmonics on any periodic signal generation | User can watch the effect of integer multiplier harmonics of fundamental harmonics in the output | If the fundamental frequency of the generated periodic wave is 50 Hz, then which of the following frequency will not be the part of generated periodic signal <br> A. 100 Hz <br> B. 150 Hz <br> **C. 70Hz** <br> D. 200Hz <br>
 
 
 

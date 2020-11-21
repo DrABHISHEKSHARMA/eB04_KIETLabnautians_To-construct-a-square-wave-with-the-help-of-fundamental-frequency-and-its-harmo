@@ -23,14 +23,14 @@
 <a name="LO"></a>
 #### 1. Focus Area : Problem Based
 
-By this experiment we want students to understand the concept of Continuous Time Fourier Series. By doing this experiment they would themselves analyze that, how the addition of integer multiple of fundamental harmonics create a wave. The values of amplitude of the harmonics play a dominant role in the generation of periodic signal generation.
+By this experiment we want students to understand the concept of Continuous Time Fourier Series(CTFS). By doing this experiment they would themselves analyze that, how the addition of integer multiple of fundamental harmonics create a wave. The values of amplitude of the harmonics play a dominant role in the generation of periodic signal generation.
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Explain the generation of periodic square wave | Evaluate | Explain
+1.| User will be able to: <br>Describe the generation of periodic square wave with the help of CTFS | Remember | Describe
 2.| User will be able to: <br>Describe the concept of Fourier Series | Understand | Describe
 3.| User will be able to: <br>Apply the concept of the Fourier Series for various periodic signal generation | Apply | Apply
 4.| User will be able to: <br>Analyze the effect of the harmonics on any periodic signal generation | Analyse | Analyze

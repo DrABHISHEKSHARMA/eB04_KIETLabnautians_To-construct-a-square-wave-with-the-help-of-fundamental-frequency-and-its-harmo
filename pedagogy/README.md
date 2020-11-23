@@ -21,7 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Problem Based
+#### 1. Focus Area : Reinforce Theoretical Concept
 
 By this experiment we want students to understand the concept of Continuous Time Fourier Series(CTFS). By doing this experiment they would themselves analyze that, how the addition of integer multiple of fundamental harmonics create a wave. The values of amplitude of the harmonics play a dominant role in the generation of periodic signal generation.
 

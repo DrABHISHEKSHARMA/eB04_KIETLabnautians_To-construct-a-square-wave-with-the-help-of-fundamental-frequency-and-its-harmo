@@ -28,7 +28,7 @@ Communication Engineering Lab (KEC-451)
 
  AKTU, Lucknow
 
-<b>Name of Developer | <b> Abhishek Sharma
+<b>Name of Developer | <b>Dr. Abhishek Sharma
 :--|:--|
 <b> Institute | <b> KIET Group of Institutions, Delhi-NCR, Ghaziabad
 <b> Email id|     <b> ymhabhishek@gmail.com
@@ -46,10 +46,10 @@ Communication Engineering Lab (KEC-451)
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Parth Dogra | Student | ECE | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
-2 | Nandini Jairath | Student | CSIT | KIET Group of Institution, Delhi-NCR, Ghaziabad |nandinijairath@gmail.com
-3 | Anubhav Kulshrestha | Student | ECE | KIET Group of Institution, Delhi-NCR, Ghaziabad |anubhavkulshrestha9@gmail.com
-4 | Utkarsh Singh | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |utkarsh2052000@gmail.com
+1 | Parth Dogra | Student | Electronics and Communication Engineering | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
+2 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad |nandinijairath@gmail.com
+3 | Anubhav Kulshrestha | Student | Electronics and Communication Engineering | KIET Group of Institution, Delhi-NCR, Ghaziabad |anubhavkulshrestha9@gmail.com
+4 | Utkarsh Singh | Student | Computer Science Engineering | KIET Group of Institution, Delhi-NCR, Ghaziabad |utkarsh2052000@gmail.com
 
 
 <br>
